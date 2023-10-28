@@ -3,7 +3,7 @@
 stairs(values)
 ==============
 
-Visualizes changes between values at x[i] and x[i+1] using `~matplotlib.axes.Axes.stairs`.
+Visualizes the changes between values at x[i] and x[i+1] using `~matplotlib.axes.Axes.stairs`.
 """
 import matplotlib.pyplot as plt
 import numpy as np
